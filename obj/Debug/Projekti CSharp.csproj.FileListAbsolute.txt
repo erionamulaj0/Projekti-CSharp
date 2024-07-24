@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\bin\Debug\Projekti CSharp.exe.config
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\bin\Debug\Projekti CSharp.exe
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\bin\Debug\Projekti CSharp.pdb
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti CSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Ballina.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Kohëmatës.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Kyqja.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Lista.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.puzzle.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Përdoruesit.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Regjistrohu.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti_CSharp.Shënime.resources
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti CSharp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti CSharp.exe
+C:\Users\Admin\Desktop\Projekti C# -Eriona Mulaj\Projekti CSharp\obj\Debug\Projekti CSharp.pdb
